@@ -1,0 +1,5 @@
+.direnv
+.envrc
+elm-stuff
+.vscode
+.DS_STORE
